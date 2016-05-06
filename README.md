@@ -4,7 +4,7 @@
 * Mathias Blum
 * Matthias Frey
 * Daniel Lamprecht
-* Nelson Silva
+* Nelson Silva (MY ORCID Profile: http://orcid.org/0000-0002-4994-0963 <img src="/my_orcid_qrcode.png" width="100" height="100">)
 
 > This project was created in the course of the lecture
 **Information Architecture and Web Usability**, held by
